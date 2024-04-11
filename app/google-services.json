@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508110961439",
+    "project_id": "fisher-9c3ce",
+    "storage_bucket": "fisher-9c3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508110961439:android:37e439dae928721afa0e2a",
+        "android_client_info": {
+          "package_name": "com.example.fisher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeN03kx4PcagCDRKj4PdQZLFLhgCycLZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
